@@ -1,0 +1,45 @@
+{
+    "channels": [
+        {
+            "name": "Th\u1ec3 Ch\u1ea5t 100 Vietsub",
+            "channel_id": "UCzSsythbbpGDDL44omhtVDA",
+            "tiktok_cookie": "acc1",
+            "proxy": {
+                "ip": "108.165.83.170",
+                "port": "7133",
+                "username": "donglaommo68",
+                "password": "donglaommo68"
+            }
+        }
+    ],
+    "pubsub_port": 8080,
+    "use_ngrok": true,
+    "ngrok_url": "https://forcipial-margery-nondeceptively.ngrok-free.dev",
+    "auto_upload": true,
+    "download_path": "VideosDirPath",
+    "processed_videos_file": "processed_videos.json",
+    "channel_last_check_file": "channel_last_check.json",
+    "proxies": [
+        {
+            "ip": "108.165.83.170",
+            "port": "7133",
+            "username": "donglaommo68",
+            "password": "donglaommo68",
+            "status": "Active"
+        },
+        {
+            "ip": "46.203.52.157",
+            "port": "5680",
+            "username": "donglaommo68",
+            "password": "donglaommo68",
+            "status": "Active"
+        },
+        {
+            "ip": "23.27.127.61",
+            "port": "7026",
+            "username": "donglaommo68",
+            "password": "donglaommo68",
+            "status": "Active"
+        }
+    ]
+}
